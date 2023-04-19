@@ -1,17 +1,23 @@
+<h1 align="center"> Article Preview </h1>
 
-# Article Preview
+<p align="center">
+O objetivo do desafio era criar uma página de visualização de um artigo usando HTML e CSS com a opção de compartilhamento sendo ativada por Javascript. <br/>
+</p>
 
-### Desafio do FrontEnd Mentor de visualização de artigo com opção de compartilhamento ativa por Javascript.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-english-version">English Version</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-## Sobre o desafio
+<p align="center">
+  <img alt="Preview" src="src/gifs/desktop.gif" width="100%">
+</p>
 
-O objetivo do desafio era criar uma página de visualização de um artigo usando HTML e CSS com a opção de compartilhamento sendo ativada por Javascript.
+## 🚀 Tecnologias
 
-Em adição à proposta inicial, também me desafiei a realizar meu primeiro projeto solo de usando Javascript com um tempo ótimo, tendo concluído antes de 1h45min.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Tecnologias Usadas
-
-Para completar o desafio usei:
  - HTML
  - CSS
  - Javascript
@@ -19,10 +25,16 @@ Para completar o desafio usei:
  - CSS Flexbox
  - Acessibilidade
 
-## O Projeto Rodando
+## 💻 Deploy
 
-#### Versão Desktop
-![](src/gifs/desktop.gif)
+> [Clique aqui para navegar para o projeto!](https://ssschneider.github.io/article-preview/)
 
-#### Versão Mobile
-![](src/gifs/mobile.gif)
+## 🌎 English Version
+
+Article Preview is a project developed with as a challenge from Frontend Mentor. To do that, I've used:
+- HTML, CSS, Javascript, CSS Flexbox, Semantic Tags and Acessibility
+
+> You can check out the deploy by [clicking here](https://ssschneider.github.io/article-preview/)
+
+---
+### Desenvolvido por Sarah Schneider 🖖
